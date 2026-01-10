@@ -2,7 +2,7 @@ import Hero from "../Section/Hero";
 import Services from "../Section/Services";
 import HowItWorks from "../Section/HowItWorks";
 import Stats from "../Section/Stats";
-import CTAButton from "../../Components/CTAButton";
+import CTAButton from "../../components/CTAButton";
 
 export default function Home() {
   return (
