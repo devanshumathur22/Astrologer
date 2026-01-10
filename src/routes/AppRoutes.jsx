@@ -1,6 +1,6 @@
 import { Routes, Route } from "react-router-dom";
 import MainLayout from "../layouts/MainLayout";
-import Home from "../pages/home/Home";
+import Home from "../pages/home/Home.jsx";
 import Horoscope from "../pages/Horoscope/Horoscope";
 import Health from "../pages/Health/Health";
 import Kundli from "../pages/Kundli/Kundli";
