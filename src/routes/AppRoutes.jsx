@@ -1,17 +1,19 @@
 import { Routes, Route } from "react-router-dom";
 import MainLayout from "../layouts/MainLayout";
-import Home from "../Pages/Home/Home.jsx";
-import Horoscope from "../Pages/Horoscope/Horoscope.jsx";
-import Health from "../Pages/Health/Health.jsx";
-import Kundli from "../Pages/Kundli/Kundli.jsx";
-import Career from "../Pages/Career/Career.jsx";
-import LoveMarriage from "../Pages/LoveMarriage/LoveMarriage.jsx";
-import Gemstone from "../Pages/Gemstone/Gemstone.jsx";
-import Contact from "../Pages/Contact/Contact.jsx";
-import Consultation from "../Pages/Consultation/Consultation.jsx";
-import About from "../Pages/About/About.jsx";
-import MatchMaking from "../Pages/MatchMaking/MatchMaking.jsx";
-import Remedies from "../Pages/Remedies/Remedies.jsx";
+import Home from "../pages/home/Home";
+import Horoscope from "../pages/Horoscope/Horoscope";
+import Health from "../pages/Health/Health";
+import Kundli from "../pages/Kundli/Kundli";
+import Career from "../pages/Career/Career";
+import LoveMarriage from "../pages/LoveMarriage/LoveMarriage";
+import Gemstone from "../pages/Gemstone/Gemstone";
+import Contact from "../pages/Contact/Contact";
+import Consultation from "../pages/Consultation/Consultation";
+import About from "../pages/About/About";
+import MatchMaking from "../pages/MatchMaking/MatchMaking";
+import Remedies from "../pages/Remedies/Remedies";
+
+
 
 export default function AppRoutes() {
   return (
